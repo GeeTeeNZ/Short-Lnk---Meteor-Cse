@@ -1,4 +1,4 @@
-#Short Lnk
+# Short Lnk
 
 A short application to convert long URLs into a format suitable format
 social media.
