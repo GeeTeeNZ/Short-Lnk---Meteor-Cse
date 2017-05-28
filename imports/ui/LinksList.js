@@ -44,8 +44,8 @@ export default class LinksList extends React.Component{
   render(){
     return (
       <div>
-        <FlipMove duration={750} easing='ease-out'>
-        {/* <FlipMove maintainContainerHeight={true}> */}
+        {/* <FlipMove duration={750} easing='ease-out'> */}
+        <FlipMove maintainContainerHeight={true}>
           {this.renderLinksListItems()}
         </FlipMove>
       </div>
